@@ -1,6 +1,7 @@
 body{
     font-family: 'Ubuntu', sans-serif;
     color: rgb(63, 61, 61);
+    margin: 0;
 }
 span{
     color: rgba(34, 63, 231, 0.829);
@@ -109,11 +110,24 @@ p{
     padding-top: 30px;
 }
 .fif{ 
-    border-image: linear-gradient(rgb(39, 8, 150),rgba(140, 206, 250, 0.863));
+    border-image: linear-gradient(rgba(18, 3, 85, 0.719),rgba(154, 169, 236, 0.863));
     border-left: 15px solid;
     border-image-slice: 1;
     padding: 20px 30px 30px 30px;
     border-radius: 10px;
-    background-color: rgba(188, 163, 255, 0.384);
+    background-color: rgba(163, 211, 255, 0.384);
    box-shadow: gray 10px 10px 10px;
+}
+h3{
+    text-align: center;
+    color: rgba(178, 224, 255, 0.685);
+}
+h5{
+    text-align: center;
+    color: blanchedalmond;
+}
+.seven{
+    background-color: rgba(29, 5, 134, 0.685);
+    padding: 30px;
+    margin-top: 40px;
 }
