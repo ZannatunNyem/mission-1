@@ -21,7 +21,7 @@ p{
     text-decoration: none;
     background-color: mediumslateblue;
     background-image: -webkit-linear-gradient(rgba(98, 14, 177, 0.63),rgba(250, 199, 133, 0.596));
-    padding: 10px 40px;
+    padding: 15px 40px;
     border-radius: 10px;
     color: mintcream;
     font-size: 15px;
@@ -41,4 +41,27 @@ p{
 .write{
     margin: 80px;
     margin-top: 90px;
+}
+.middle{
+    text-align: center;
+    margin-bottom: 52px;
+}
+.two{
+    width: 30%;
+    padding-left: 50px;
+    margin: 30px;
+}
+.two img{
+    width: 30%;
+    margin: 0;
+    padding-top: 20px;
+
+}
+.three{
+    font-size: 30px;
+}
+.four{
+    background: rgba(176, 223, 255, 0.63);
+    border-radius: 15px;
+    
 }
