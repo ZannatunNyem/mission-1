@@ -93,11 +93,15 @@ p{
     margin-right: 90px;
 }
 .ele{
-    background-image: url(dot.png);
+    background-image: url(dot-2.png);
+    background-image: 10px 50px url(dot.png);
     background-repeat: no-repeat;
-
     background-size: 150px 150px;
-   
-    background-position: right 70px bottom 15px;
-    
+    background-position: right 70px bottom 1.5px;
+}
+#twe{
+    text-align: center;
+}
+.for{
+    padding-top: 30px;
 }
