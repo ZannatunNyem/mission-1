@@ -83,7 +83,7 @@ p{
     padding-top: 80px;
 }
 .eight{
-    background-image: url(shape-6.png);
+    background-image: url(ima/shape-6.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 300px 300px;
@@ -97,8 +97,8 @@ p{
 }
 
 .ele{
-    background-image: url(dot-2.png);
-    background-image: 10px 50px url(dot.png);
+    background-image: url(ima/dot-2.png);
+    background-image: 10px 50px url(ima/dot.png);
     background-repeat: no-repeat;
     background-size: 150px 150px;
     background-position: right 70px bottom 1.5px;
