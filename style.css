@@ -21,7 +21,7 @@ p{
 .button{
     text-decoration: none;
     background-color: mediumslateblue;
-    background-image: -webkit-linear-gradient(rgba(98, 14, 177, 0.63),rgba(250, 199, 133, 0.596));
+    background-image: -webkit-linear-gradient(rgba(49, 14, 177, 0.63),rgba(152, 226, 245, 0.596));
     padding: 15px 40px;
     border-radius: 10px;
     color: mintcream;
@@ -51,6 +51,7 @@ p{
     width: 30%;
     padding-left: 40px;
     margin: 30px;
+    
 }
 .two img{
     width: 30%;
@@ -65,6 +66,7 @@ p{
     background: rgba(176, 223, 255, 0.63);
     border-radius: 15px; 
     padding-right: 15px; 
+    box-shadow: grey 10px 10px 10px;
 }
 .five img{
     width: 75%;
@@ -92,6 +94,7 @@ p{
 .ten{
     margin-right: 90px;
 }
+
 .ele{
     background-image: url(dot-2.png);
     background-image: 10px 50px url(dot.png);
@@ -104,4 +107,13 @@ p{
 }
 .for{
     padding-top: 30px;
+}
+.fif{ 
+    border-image: linear-gradient(rgb(39, 8, 150),rgba(140, 206, 250, 0.863));
+    border-left: 15px solid;
+    border-image-slice: 1;
+    padding: 20px 30px 30px 30px;
+    border-radius: 10px;
+    background-color: rgba(188, 163, 255, 0.384);
+   box-shadow: gray 10px 10px 10px;
 }
